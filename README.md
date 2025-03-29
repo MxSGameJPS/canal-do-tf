@@ -74,19 +74,19 @@ O projeto foi desenvolvido com foco em experiência do usuário e possui layout 
 
 ### Home
 
-![Home](https://via.placeholder.com/800x400?text=Home+do+Canal+do+TF)
+![Home](https://github.com/MxSGameJPS/canal-do-tf/blob/main/public/1.png?raw=true)
 
 ### Notícias
 
-![Notícias](https://via.placeholder.com/800x400?text=Página+de+Notícias)
+![Notícias](https://github.com/MxSGameJPS/canal-do-tf/blob/main/public/2.png?raw=true)
 
 ### Vídeos
 
-![Vídeos](https://via.placeholder.com/800x400?text=Galeria+de+Vídeos)
+![Vídeos](https://github.com/MxSGameJPS/canal-do-tf/blob/main/public/3.png?raw=true)
 
 ### Admin
 
-![Admin](https://via.placeholder.com/800x400?text=Área+Administrativa)
+![Admin](https://github.com/MxSGameJPS/canal-do-tf/blob/main/public/4.png?raw=true)
 
 ## 👤 Autor
 
